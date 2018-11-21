@@ -214,7 +214,7 @@ plot_wine_quality_histogram(df['quality'])
 ```
 
 
-![png](Red-Wine-Quality_files/Red-Wine-Quality_11_0.png)
+![Red wine quality histogram](https://alvarorobledo.com/assets/img/posts_contents/wine-quality-histogram.png "Red wine quality histogram")
 
 
 Looks like the distribution of quality scores is heavily centred around 5 and 6. This inbalance is likely to pose a challenge to our learning models, since most algorithms will tend to centre their predictions around 5 and 6, making the rest of the scores harder to predict.
@@ -234,8 +234,7 @@ plot_features_correlation(df)
 ```
 
 
-![png](Red-Wine-Quality_files/Red-Wine-Quality_13_0.png)
-
+![Wine quality correlation matrix](https://alvarorobledo.com/assets/img/posts_contents/wine-quality-correlation-matrix.png "Wine quality correlation matrix")
 
 Plotting the correlation between all the given variables shows that the most positively correlated with quality is alcohol. Thus, alcohol is likely to have the biggest effect when predicting quality.
 
