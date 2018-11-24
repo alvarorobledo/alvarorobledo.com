@@ -13,7 +13,7 @@ Last year, as part of the EE3-23 Machine Learning coursework, we were asked to a
 
 ### Background & short intro
 
-*Note: As usual, you can also follow this content on the [Jupyter notebook]() within my [Github repository]()*
+*Note: As usual, you can also follow this content on the [Jupyter notebook](http://nbviewer.jupyter.org/github/alvarorobledo/Wine-Quality/blob/master/Red-Wine-Quality.ipynb) within my [Github repository](https://github.com/alvarorobledo/Wine-Quality)*
 
 Our motivation is to study and implement multiple linear and non-linear machine learning algorithms and evaluate their performance.
 
