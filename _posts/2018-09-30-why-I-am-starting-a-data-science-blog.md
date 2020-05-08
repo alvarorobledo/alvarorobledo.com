@@ -34,7 +34,7 @@ An amalgam of my interests, views and thoughts, but always from a data science p
 
 ## What this blog isn't
 
-A personal blog, or at least one where I narrate my life, trips or thoughts, in a diary-like style.
+A personal blog, or at least one where I narrate my life, trips or thoughts, in a diary-like style. A niche blog, such as [Charger Universe](https://chargeruniverse.com/).
 
 It's 2018, and there are definitely other tools which cover that already (*did anyone say Instagram?*).
 
