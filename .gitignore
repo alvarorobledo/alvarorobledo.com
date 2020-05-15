@@ -67,5 +67,7 @@ build-iPhoneSimulator/
 bower_components
 node_modules
 
+favicon
+
 build-instructions.txt
 instrucciones.txt
